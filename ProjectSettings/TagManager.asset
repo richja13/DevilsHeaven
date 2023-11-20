@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Doors
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - BackgroundFar2
+  - BackgroundFar1
+  - Background
+  - ForeGround
+  - ForeGround1
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: FarBackground2
+    uniqueID: 2683148003
+    locked: 0
+  - name: FarBackground1
+    uniqueID: 1548317753
+    locked: 0
+  - name: Background
+    uniqueID: 687773587
+    locked: 0
+  - name: ground
+    uniqueID: 4291737407
+    locked: 0
+  - name: Player
+    uniqueID: 124508165
+    locked: 0
+  - name: foreground
+    uniqueID: 2649298529
+    locked: 0
